@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ObserverUsingDotNetInterfaces
+namespace ObserverWithDelegate
 {
     class Program
     {
